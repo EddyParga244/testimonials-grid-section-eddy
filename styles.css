@@ -94,6 +94,7 @@ h1{
 }
 
 .verified-graduate {
+  display: block;
   font-size: 1rem;
 }
 
