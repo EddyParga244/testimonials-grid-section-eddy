@@ -33,6 +33,10 @@ body {
   background-color: var(--Grey-100);
 }
 
+h1{
+  font-size: 0em;
+}
+
 #container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
